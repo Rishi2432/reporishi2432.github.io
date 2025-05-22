@@ -11,6 +11,7 @@ body{
     width: 350px;
     border-radius: 10px;
     background-color: beige;
+    box-sizing: border-box;
 }
 .top{
     border: 2px solid black;
